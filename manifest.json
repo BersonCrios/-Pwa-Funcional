@@ -1,0 +1,14 @@
+{
+    "short_name": "PWA FUNCIONAL",
+    "name": "PWA ON/OFF",
+    "icons": [{
+        "src": "icon/icon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+    }],
+    "start_url": "index.html?launcher=true",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#FAA",
+    "background_color": "#A1B"
+}
